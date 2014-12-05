@@ -1,1 +1,5 @@
 *.deb
+*.pyc
+*.pyo
+*.swp
+*.swo
