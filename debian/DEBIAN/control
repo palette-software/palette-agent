@@ -3,7 +3,7 @@ Section: utils
 Priority: optional
 Maintainer: Palette Software
 Package: palette-agent
-Version: 1.0.1
+Version: 1.1.0
 Architecture: all
 Description: Palette Agent files
 Homepage: http://www.palette-software.com
