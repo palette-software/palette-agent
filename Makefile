@@ -11,6 +11,6 @@ debian:
 
 dpkg: debian
 
-clean: clean-debian
+clean:
 	rm -f *.deb
 .PHONY: clean
